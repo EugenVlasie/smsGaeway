@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sms Gateway</string>
+    <string name="confirm">Confirm</string>
+    <string name="id">ID</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="schimba_id">Schimba ID</string>
+    <string name="sms_gateway">Sms Gateway</string>
+    <string name="service_name">Sms Service</string>
+</resources>
